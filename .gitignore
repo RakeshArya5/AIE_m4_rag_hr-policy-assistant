@@ -1,0 +1,6 @@
+.env
+.venv/
+qdrant_data/
+data/
+__pycache__/
+*.pyc
